@@ -1,0 +1,15 @@
+.container {
+  max-width: 1400px;
+}
+
+.card {
+  width: 80%;
+}
+
+.text{
+  display: none;
+  
+}
+span {
+  display: inline-block;
+}
