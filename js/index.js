@@ -1,6 +1,6 @@
 
 
-
+// контейнер всего чата
 
 let usernameInput = document.querySelector(`#username`);
 let messageInput = document.querySelector(`#message`);
@@ -8,7 +8,7 @@ let messagesNode = document.querySelector(`#messages`);
 let sendButton = document.querySelector(`#send`);
 let errorNode = document.querySelector(`#error`);
 let hintsNode = document.querySelector('#hints');
-let btnNode = document.querySelector('.text');
+let textNode = document.querySelector('.text');
 
 let count = 0;
 
